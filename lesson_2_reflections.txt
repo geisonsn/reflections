@@ -1,0 +1,2 @@
+O que acontece ao iniciar um reposítório? Por que você precisa fazer isso?
+O iniciar um repositório são criados os metados necessários para o Git monitorar os arquivos existentes. A operação de inicialização é necessária para indicar que o conteúdo existente em um diretório é um projeto Git.
