@@ -1,2 +1,19 @@
 O que acontece ao iniciar um reposítório? Por que você precisa fazer isso?
 O iniciar um repositório são criados os metados necessários para o Git monitorar os arquivos existentes. A operação de inicialização é necessária para indicar que o conteúdo existente em um diretório é um projeto Git.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+A área de preparação ou staging area representa uma de armazenamento para arquivos que foram alterados no repositório. O diretório de trabalho contém todos os arquivos monitorados já versionados. O reposítório é espaço global usado para o gerenciamento de arquivos do Git. 
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Fazendo a adição parcial das alterações...
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Branches podem ser usados em situações diversas e são úteis para o desenvolvimento paralelo de versões de um sistema. Pode-se criar branches para iniciar a tradução do sistema em outra língua, correções de bugs, melhorias em funcionalidades...
+ 
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+O resultado é a união entre os commits dos dois branches a partir de um ancestral comum.
+
+Quais são os prós e contras da mesclagem automática do Git vs. sempre fazer mesclagens manualmente?
+
