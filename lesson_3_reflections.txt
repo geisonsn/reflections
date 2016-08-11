@@ -1,1 +1,10 @@
 When would you want to create a remote repository rather than keeping all your work local?
+Create a remote repository allow sharing files between many members of a team.
+
+Por que você prefere efeturar pull de alterações manualmente do que deixar Git atualizar-se atuomaticamente com o seu repositório remoto?
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+Clones permitem a cópia sem vínculo de um projeto original. Forks permitem que se faça um cópia vinculada ao projeto original. Branches permitem ... 
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+É importante para poder verificar que mudanças da cópia local conflitam com o do remoto. Dessa forma é mais fácil manter um código mais facilmente evitando bugs.
