@@ -8,3 +8,6 @@ Clones permitem a cópia sem vínculo de um projeto original. Forks permitem que
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 É importante para poder verificar que mudanças da cópia local conflitam com o do remoto. Dessa forma é mais fácil manter um código mais facilmente evitando bugs.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+Não consigo imaginar o compartilhamento de código de outra forma que não seja usando um VCS. Qualquer outra alternativa para mim é um retrocesso.
